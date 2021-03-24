@@ -1,1 +1,1 @@
-InvertedMechanismMode algorithm used for trades tests.
+InvertedMechanismMode bot algorithm used for trades tests.
